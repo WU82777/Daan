@@ -36,6 +36,9 @@ No. You can build Nand from other gates and these can be built from Nand and oth
 
 ## Q10
 
+## Q24
+
++16
 
 ## Q25
 
