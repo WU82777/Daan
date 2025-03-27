@@ -4,7 +4,7 @@ To implement all 64 instructions would greatly increase the complexity of the pr
 
 ## Q2
 
-
+No. You can build Nand from other gates and these can be built from Nand and other gates too.
 
 ## Q3
 
