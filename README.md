@@ -1,6 +1,6 @@
 # Answer
 ## Q1
-
+To implement all 64 instructions would greatly increase the complexity of the processor and for no benefit since we can do almost everything we want with the 18 instructions we have.
 
 ## Q2
 
