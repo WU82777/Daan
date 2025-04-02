@@ -14,6 +14,9 @@ The distribution is symmetric.
 ## Q5
 23
 
+## Q6
+pd.get_dummies(df['Color'], prefix='Color')
+
 ## Q8
 The 'coerce' parameter specifies that non-numeric values should be converted to NaN (Not a Number).
 
