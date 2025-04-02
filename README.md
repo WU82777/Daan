@@ -28,3 +28,6 @@ No correlation
 
 ## Q10
 Replaces missing values with the mean of the non-missing values in the same column
+
+## Q11
+It standardizes the data by subtracting the mean and dividing by the standard deviation.
