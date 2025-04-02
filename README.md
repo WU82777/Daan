@@ -23,3 +23,5 @@ pd.to_numeric(df['Age'])
 ## Q8
 The 'coerce' parameter specifies that non-numeric values should be converted to NaN (Not a Number).
 
+## Q9
+No correlation
