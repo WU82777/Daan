@@ -31,3 +31,6 @@ Replaces missing values with the mean of the non-missing values in the same colu
 
 ## Q11
 It standardizes the data by subtracting the mean and dividing by the standard deviation.
+
+## Q12
+Strong positive correlation
