@@ -34,3 +34,9 @@ It standardizes the data by subtracting the mean and dividing by the standard de
 
 ## Q12
 Strong positive correlation
+
+## Q13
+
+## Q14
+
+## Q15
