@@ -17,6 +17,9 @@ The distribution is symmetric.
 ## Q6
 pd.get_dummies(df['Color'], prefix='Color')
 
+## Q7
+pd.to_numeric(df['Age'])
+
 ## Q8
 The 'coerce' parameter specifies that non-numeric values should be converted to NaN (Not a Number).
 
