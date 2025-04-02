@@ -11,6 +11,9 @@ The distribution is concentrated on the left, and there are outliers to the righ
 ## Q4
 The distribution is symmetric.
 
+## Q5
+23
+
 ## Q8
 The 'coerce' parameter specifies that non-numeric values should be converted to NaN (Not a Number).
 
