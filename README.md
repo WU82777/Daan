@@ -25,3 +25,6 @@ The 'coerce' parameter specifies that non-numeric values should be converted to 
 
 ## Q9
 No correlation
+
+## Q10
+Replaces missing values with the mean of the non-missing values in the same column
