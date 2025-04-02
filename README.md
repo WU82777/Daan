@@ -36,6 +36,7 @@ It standardizes the data by subtracting the mean and dividing by the standard de
 Strong positive correlation
 
 ## Q13
+Model B is better because it has a lower RMSE.
 
 ## Q14
 
