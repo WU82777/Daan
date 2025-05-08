@@ -52,7 +52,16 @@ labels, variables, predefined
 （第六个）@SP M=M+1 A=M M=2 @SP
 
 ## Q18
-没有选项
+没有选项（猜的顺序）
+@SP
+
+AM=M-1
+
+D=M
+
+@8
+
+M=D
 
 ## Q22
 argument, constant, static
