@@ -27,7 +27,7 @@ C
 
 
 ## Q10
-
+It draws the topmost leftmost three pixels on the screen black.
 
 ## Q11
 
