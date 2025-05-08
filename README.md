@@ -99,3 +99,14 @@ argument, constant, static
 
 ## Q23
  divide, times, le, xor
+
+## Q24
+push local 5
+
+push local 6
+
+add
+
+push local 4
+
+call Math.multiply 2
