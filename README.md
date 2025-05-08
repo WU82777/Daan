@@ -76,6 +76,17 @@ M=D
 @SP
 M=M+1
 
+## Q20
+@SP
+
+AM=M-1
+
+D=M
+
+A=A-1
+
+M=M-D
+
 ## Q22
 argument, constant, static
 
