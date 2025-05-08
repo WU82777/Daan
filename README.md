@@ -87,6 +87,13 @@ A=A-1
 
 M=M-D
 
+## Q21
+@SP
+
+A=M-1
+
+M=!M
+
 ## Q22
 argument, constant, static
 
