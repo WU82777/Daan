@@ -30,7 +30,7 @@ C
 It draws the topmost leftmost three pixels on the screen black.
 
 ## Q11
-
+ It does not change RAM[93]
 
 ## Q12
 
