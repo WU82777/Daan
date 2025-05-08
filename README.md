@@ -51,3 +51,7 @@ labels, variables, predefined
 （第六个）@SP M=M+1 A=M M=2 @SP
 
 ## Q18
+
+
+## Q23
+ divide, times, le, xor
