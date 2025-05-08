@@ -21,7 +21,7 @@
 C
 
 ## Q8
-
+These wires are c1 through c6 wires of the instruction when we have a C-instruction. Their purpose is to determine the operations we perform on the ALU.
 
 ## Q9
 
