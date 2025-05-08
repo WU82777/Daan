@@ -110,3 +110,14 @@ add
 push local 4
 
 call Math.multiply 2
+
+## Q25
+push local 4
+
+not
+
+push local 5
+
+not
+
+and
