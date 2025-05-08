@@ -36,7 +36,7 @@ It draws the topmost leftmost three pixels on the screen black.
 
 
 ## Q13
-
+labels, variables, predefined
 
 ## Q14
 
