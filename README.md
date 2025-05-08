@@ -45,3 +45,9 @@ labels, variables, predefined
 ## Q16
 （第一个）@0 D=A @SP A=M M=D @SP AM=M+1
 （第五个）@SP A=M M=0 @SP M=M+1
+
+## Q17
+（第一个）@2 D=A @SP A=M M=D @SP AM=M+1
+（第六个）@SP M=M+1 A=M M=2 @SP
+
+## Q18
