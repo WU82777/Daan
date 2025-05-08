@@ -41,3 +41,7 @@ labels, variables, predefined
 ## Q14
 
 ## Q15
+
+## Q16
+（第一个）@0 D=A @SP A=M M=D @SP AM=M+1
+（第五个）@SP A=M M=0 @SP M=M+1
