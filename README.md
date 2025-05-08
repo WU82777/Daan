@@ -52,6 +52,8 @@ labels, variables, predefined
 
 ## Q18
 
+## Q22
+argument, constant, static
 
 ## Q23
  divide, times, le, xor
