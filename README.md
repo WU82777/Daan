@@ -63,6 +63,19 @@ D=M
 
 M=D
 
+## Q19
+猜测的选项
+@0
+D=A
+
+@SP
+A=M
+
+M=D
+
+@SP
+M=M+1
+
 ## Q22
 argument, constant, static
 
